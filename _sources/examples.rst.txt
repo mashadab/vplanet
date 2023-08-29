@@ -1,0 +1,65 @@
+Examples
+========
+
+A collection of example input files and scripts using **VPLanet** that
+showcase the various applications of the code. The source files for
+the examples below live in the :code:`examples` folder in the top-level
+directory of the :code:`VPLanet` repository.
+`View them on GitHub <https://github.com/VirtualPlanetaryLaboratory/vplanet-private/tree/master/examples>`_.
+
+.. toctree::
+   :maxdepth: 1
+
+
+
+   examples/CircumbinaryOrbit
+   examples/DampedCBP
+   examples/MagneticBraking
+   examples/IceBelts
+   examples/ApseLock
+   examples/EarthClimate
+   examples/StellarEvol
+   examples/ChaoticResonances
+   examples/SS_NBody
+   examples/MagmOc_GJ1132b
+   examples/EarthInterior
+   examples/AtmEscRegimes
+   examples/HabitableZone
+   examples/AtmEscFlareProxCen
+   examples/MagmOc_Trappist1g
+   examples/STEEP
+   examples/MDwarfLuminosity
+   examples/VenusWaterLoss
+   examples/NBodyAtmEsc
+   examples/FfdProxCen
+   examples/BinaryTides
+   examples/TideLock
+   examples/MiniNeptuneEvap
+   examples/GalaxyEffects
+   examples/ParameterSweep
+   examples/CassiniStates
+   examples/DiffLimWaterEscape
+   examples/HLossTides
+   examples/AbioticO2
+   examples/RadHeat
+   examples/SSDistOrbDistRot
+   examples/MagmOc_Earth
+   examples/VenusApproxInterior
+   examples/CassiniMulti
+   examples/WaterLossTides
+   examples/HabEvapCore
+   examples/AtmEscKepler-36
+   examples/TidalEarth
+   examples/IoHeat
+
+
+Broken
+------
+
+Currently broken examples in need of your help!
+
+.. toctree::
+   :maxdepth: 1
+
+
+
